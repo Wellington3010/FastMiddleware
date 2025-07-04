@@ -1,2 +1,3 @@
 # FastMiddleware
-FastMiddleware it´s a class library project that abstract interactions  and injections of objects functioning like an mediator
+FastMiddleware it´s a class library project that abstract interactions and communication between objects on projects that have
+command query segregation responsibility (CQRS) design pattern.
